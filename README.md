@@ -3,7 +3,7 @@
 
 Aplikacija sadrži višestruke funkcionalnosti koje se posmatraju kroz različite role koje se nalaze u aplikaciji. Postoje četiri role koje čine ovu aplikaciju, a to su: administrator, menadžer hotela, korisnik, i neregistrovan korisnik.
 
-<b>1. ADMINISTRATOR </b>
+<b>1. ADMINISTRATOR </b><br>
 Administrator – ima mogućnost dodavanja, izmene i brisanja hotela. Za sve hotele
 može da pregleda, rezerviše, kreira i briše sobe kao i tipove soba. Prilikom brisanja
 određenje sobe, brišu se svi podaci vezani za tu sobu. Ukoliko administratror obriše
