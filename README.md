@@ -1,7 +1,12 @@
-# RezervisanjeHotelskihSoba
-<b><i> Web aplikacija rađena u JSP tehnologiji za predmet Internet programerski alati. </i></b>
+# Rezervisanje Hotelskih Soba
+<b><i> Web aplikacija za rezervisanje hotelskih soba, rađena u JSP tehnologiji za predmet Internet programerski alati. </i></b>
 
-Aplikacija sadrži višestruke funkcionalnosti koje se posmatraju kroz različite role koje se nalaze u aplikaciji. Postoje četiri role koje čine ovu aplikaciju, a to su: administrator, menadžer hotela, korisnik, i neregistrovan korisnik.
+<p align="justify">
+Funkcionalnosti aplikacije mogu se posmatrati sa više
+aspekata, u zavisnosti od uloge korisnika. Tako je moguće sagledati rad i funkcionalnosti date
+aplikacije iz ugla korisnika koji nema nalog (neregistrovan), korisnika koji ima nalog (registrovan),
+menadžera hotela i administratora
+</p>
 
 <p align="justify">
 <b>1. ADMINISTRATOR</b><br>
@@ -42,6 +47,7 @@ aplikaciji i njihovih soba. Ukoliko želi da rezerviše neku sobu neophodno je d
 registruje, odnosno prijavi na sistem.
 </p>
 
+<br>
 
 <b>1. Model baze</b><br>
 <img src="/RezervisanjeHotelskihSoba/Screenshots/ŠemaBazePodataka.png"> 
@@ -94,14 +100,14 @@ registruje, odnosno prijavi na sistem.
 <b>17. Izmena podataka o korisniku 2/2</b><br>
 <img src="/RezervisanjeHotelskihSoba/Screenshots/Izmena podataka korisnika pt2.png">
 
-<b>17. Rezervisanje sobe 1/2</b><br>
+<b>18. Rezervisanje sobe 1/2</b><br>
 <img src="/RezervisanjeHotelskihSoba/Screenshots/Rezervacija soba pt1.png">
 
-<b>18. Rezervisanje sobe 2/2</b><br>
+<b>19. Rezervisanje sobe 2/2</b><br>
 <img src="/RezervisanjeHotelskihSoba/Screenshots/Rezervacija soba pt2.png">
 
-<b>19. Upravljanje hotelom</b><br>
+<b>20. Upravljanje hotelom</b><br>
 <img src="/RezervisanjeHotelskihSoba/Screenshots/Upravljanje hotelom.png">
 
-<b>20. Plaćanje rezervacije</b><br>
+<b>21. Plaćanje rezervacije</b><br>
 <img src="/RezervisanjeHotelskihSoba/Screenshots/Placanje.png">
