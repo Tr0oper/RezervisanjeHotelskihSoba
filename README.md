@@ -13,17 +13,14 @@ nisu aktivne. Može da izbriše ili menja profil bilo kojeg korisnika, da mu dod
 oduzima poene, kao i da mu promeni ulogu (rolu). Prilikom brisanja određenog
 korisnika brišu se svi podaci vezani za istog, uključujući sve njegove rezervacije.
 
-<b>2. MENADŽER HOTELA </b>
-<p>
+<b>2. MENADŽER HOTELA </b><br>
 Menadžer hotela – ima mogućnost da pregleda sve rezervacije svog hotela, kao i da
 otkaže one koje još nisu aktivne. Takođe može pregledati sve sobe svog hotela,
 izmeniti ih, kao i da ih obriše ili kreira nove, i za svaku skobu svog hotela može
 pregledati, dodati ili obrisati tip sobe. Ima mogućnost da rezerviše sobu kako iz svog
 tako i iz bilo kog drugog hotela dostupnog u aplikaciji.
-</p>
 
-<b>3. KORISNIK</b>
-<p>
+<b>3. KORISNIK</b><br>
 Korisnik – ima mogućnost pregledanja i pretrage svih dostupnih hotela u aplikaciji kao
 i njihovih soba. Može rezervisati bilo koju sobu. Za svaku rezervisanu sobu dobiće
 određen broj poena koje ta soba donosi, te poene, kada ih nakupi dovoljno može
@@ -31,11 +28,8 @@ iskoristiti da njima plati rezervisanje neke sobe. Pored toga može pristupiti s
 gde su mu dostupni svi podaci uključujući i sve rezervacije koje je do sad imao, a one
 koje još nisu aktivne može otkazati i u tom slučaju mu će se oduzeti poeni koje je
 dobio za tu rezervaciju.
-</p>
 
-<b>4. NEREGISTROVAN KORISNIK</b>
-<p>
+<b>4. NEREGISTROVAN KORISNIK</b><br>
 Neregistrovan korisnik - ima mogućnost pregledanja svih hotela dostupnih u
 aplikaciji i njihovih soba. Ukoliko želi da rezerviše neku sobu neophodno je da se
 registruje, odnosno prijavi na sistem.
-</p>
